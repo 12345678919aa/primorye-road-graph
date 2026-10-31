@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.DS_Store
+# генерируется скриптом, весит ~60 МБ
+out/primorye_partitioned.graphml
